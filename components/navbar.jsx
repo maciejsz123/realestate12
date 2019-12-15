@@ -5,16 +5,16 @@ function Navbar() {
     <div className='navbar navbar-expand-sm bg-light justify-content-center row'>
       <ul className='navbar-nav'>
         <li className='nav-item'>
-          <a className='navbar-brand' href='#'>LOGO</a>
+          <a className='navbar-brand' href='1'>LOGO</a>
         </li>
         <li className='nav-item'>
-          <a className='nav-link' href='#'>rent</a>
+          <a className='nav-link' href='1'>rent</a>
         </li>
         <li className='nav-item'>
-          <a className='nav-link' href='#'>buy</a>
+          <a className='nav-link' href='1'>buy</a>
         </li>
         <li className='nav-item'>
-          <a className='nav-link' href='#'>home</a>
+          <a className='nav-link' href='1'>home</a>
         </li>
       </ul>
     </div>
